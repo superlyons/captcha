@@ -1,5 +1,9 @@
 <?php
+namespace lyons\lib;
+
+
 defined('CAPTCHA_ROOT') or define('CAPTCHA_ROOT', dirname(__FILE__));
+
 
 class captcha{
 
